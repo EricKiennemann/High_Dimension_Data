@@ -2,6 +2,8 @@
 ## DSTI - Pr. Bouveyron
 
 ### [Descriptiv statistics and Evaluation Process](/DescriptivStatistics.pdf)
-### Supervised Learning
-* LDA
-* Logistic Regression
+### [Supervised Learning](/SupervisedLearning.pdf)
+* Classification with KNN 
+* Classification with LDA
+* Classification with Logistic Regression
+* Classification with SVM
